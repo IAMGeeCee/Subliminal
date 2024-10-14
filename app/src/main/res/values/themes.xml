@@ -1,0 +1,7 @@
+<resources >
+    <!-- Base application theme. -->
+    <style name="Theme.Subliminal" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
